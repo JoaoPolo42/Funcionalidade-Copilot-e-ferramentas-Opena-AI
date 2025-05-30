@@ -1,0 +1,1 @@
+# Funcionalidade-Copilot-e-ferramentas-Opena-AI
