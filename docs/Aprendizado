@@ -1,0 +1,15 @@
+Anotações de Aprendizado
+
+Sobre Filtragem de Conteúdo
+Falsos Positivos: Cerca de 5-8% em testes iniciais, exigindo ajustes finos
+
+Abordagens Híbridas: Combinação de regex + IA + listas negras mostrou-se mais eficaz
+
+Context Matters: Sistemas precisam entender diferenças entre discussão sobre e promoção de conteúdo sensível
+
+Sobre Criação Assistida
+Prompt Engineering: Estruturação é crucial (Contexto + Tarefa + Restrições + Exemplos)
+
+Temperature: Valores entre 0.3-0.7 produzem melhores resultados para conteúdo técnico
+
+Iteração: 2-3 ciclos de refinamento melhoram significativamente a qualidade
